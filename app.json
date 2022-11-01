@@ -1,13 +1,13 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "DRAGON File Share/Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/thormaxm/DRAGON-RENAME",
+  "logo": "https://telegra.ph/file/9c7870f6f6e500e22a5c5.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
